@@ -9,4 +9,4 @@ These are my solutions to the hacker rank questions
 </p>
 
 
-<a src="https://www.hackerrank.com/domains/tutorials/30-days-of-code"> 30 Days of Code </a>
+<a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code"> 30 Days of Code</a>
